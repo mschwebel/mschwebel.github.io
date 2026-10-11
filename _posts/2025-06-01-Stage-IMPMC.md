@@ -9,3 +9,5 @@ L'étude des polymorphes de la silice (SiO<sub>2</sub>) est particulièrement ut
 Mon stage à l'Institut de minéralogie, de physique des matériaux et de cosmochimie (IMPMC)consistait à acquérir des données par spectroscopie Raman d'un échantillon subissant une montée en pression (une cellule à enclume de diamant) et en température. 
 L'obtention de ces spectres et de pics Raman associés aux vibration des liasisons Si-O permet d'étudier directement les transitions de phase de la coésite, de définir le paramètre de Grüneisen mais aussi l'équation d'état de la silice. La silice étant le principal constituants de la croûte et du manteau terrestre, comprendre ses propriétés est donc utile dans la compréhension des dynamiques tectoniques.
 </p>
+
+[Rapport de stage complet au format pdf]({{ site.baseurl }}/fichiers/RapportIMPMC.pdf)
