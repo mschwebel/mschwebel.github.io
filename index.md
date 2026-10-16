@@ -7,10 +7,10 @@ permalink: /
 <img src="{{ site.baseurl }}/images/img.jpg" style="width: 600px; float: right; margin-left: 25px; margin-bottom: 15px; border-radius: 8px;">
 
 <p style="text-align: justify; font-size: 18px;">
-J'étudie actuellement au sein du Master 2 SECO (Satellite remote sensing for Earth and climate observation) à l'IPGP (Institut de Physique du Globe de Paris). En licence, mes centres d intérêt ont évolué des geosciences vers la géophysique et je suis maintenant très intéressé par la télédétection. 
+J'étudie actuellement au sein du Master 2 SECO (Satellite Remote Sensing for Earth and Climate Observation) à l'IPGP (Institut de Physique du Globe de Paris). En Licence, mes centres d'intérêt ont évolué des géosciences vers la géophysique et je suis maintenant très intéressé par la télédétection. 
 <br>
 <br>
-J'ai acquis au cours de plusieurs stages mais aussi de différents projets des compétences pratiques en analyse de données et en modélisation, qui viennent s’ajouter à une formation théorique complète de master 1 en géophysique.
+J'ai acquis au cours de plusieurs stages mais aussi de différents projets des compétences pratiques en analyse de données et en modélisation, qui viennent s’ajouter à une formation théorique complète de Master 1 en géophysique.
 Je désire maintenant approfondir et utiliser mes connaissances dans l'observation du système Terre.
 
 </p>
